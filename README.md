@@ -311,8 +311,8 @@ This project was built from [SpotifyTokenSwap](https://github.com/simontaen/Spot
 
 [code-of-conduct]: https://github.com/spotify/code-of-conduct/blob/master/code-of-conduct.md
 [ruby]: https://ruby-lang.org
-[s4d]: https://beta.developer.spotify.com
-[authorization-guide]: https://beta.developer.spotify.com/documentation/general/guides/authorization-guide/
-[authorization-code-flow]: https://beta.developer.spotify.com/documentation/general/guides/authorization-guide/#authorization-code-flow
-[implicit-grant-flow]: https://beta.developer.spotify.com/documentation/general/guides/authorization-guide/#implicit-grant-flow
-[token-swap-refresh-guide]: https://beta.developer.spotify.com/documentation/ios-sdk/guides/token-swap-and-refresh/
+[s4d]: https://developer.spotify.com
+[authorization-guide]: https://developer.spotify.com/documentation/general/guides/authorization-guide/
+[authorization-code-flow]: https://developer.spotify.com/documentation/general/guides/authorization-guide/#authorization-code-flow
+[implicit-grant-flow]: https://developer.spotify.com/documentation/general/guides/authorization-guide/#implicit-grant-flow
+[token-swap-refresh-guide]: https://developer.spotify.com/documentation/ios-sdk/guides/token-swap-and-refresh/
