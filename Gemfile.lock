@@ -1,6 +1,6 @@
 GIT
-  remote: git://github.com/better-forks/encrypted_strings.git
-  revision: 2d728948ca03def215301be878debbf02c21f556
+  remote: git://github.com/pluginaweek/encrypted_strings.git
+  revision: a9bea6b48b910e24e762662d8816709100906756
   specs:
     encrypted_strings (0.3.3)
 
